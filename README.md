@@ -1,6 +1,6 @@
 - 👋 Hi, I’m deep javiya.
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning javascript(react.js/node.js),python
+- 🌱 I’m currently learning javascript (react.js/node.js), python
 
 
 <!---
